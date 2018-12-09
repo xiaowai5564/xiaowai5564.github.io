@@ -66,7 +66,6 @@ function execute(){
     })
 
     window.addEventListener('beforeinstallprompt', function (e) {
-        debugger;
         // e.preventDefault();
         // return false;
     });
